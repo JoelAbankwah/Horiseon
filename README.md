@@ -1,6 +1,6 @@
 
 
-![Alt text](./assets/images/Screenshot%20(5).png)
+![Alt text](./assets/images/Readme(screenshot).png)
 
 
 
